@@ -1,0 +1,296 @@
+# Translation of Ecto in Indonesian
+# This file is distributed under the same license as the Ecto package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-04-23 14:59:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Ecto\n"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:221
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:223
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/template-tags.php:217
+msgid "Archives: %s"
+msgstr "Arsip: %s"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Obrolan"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Gambar"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:200
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeri"
+
+#: inc/template-tags.php:195
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:198
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Samping"
+
+#: inc/template-tags.php:195
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/template-tags.php:193
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:193
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/template-tags.php:191
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:191
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/template-tags.php:189
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/template-tags.php:185
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:187
+msgid "Tag: %s"
+msgstr "Kaitkata: %s"
+
+#: inc/template-tags.php:164
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:164
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: inc/template-tags.php:164
+msgid "Leave a comment"
+msgstr "Meninggalkan komentar"
+
+#: inc/template-tags.php:96 inc/template-tags.php:138
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/template-tags.php:120
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Penulis"
+
+#: inc/template-tags.php:130
+msgid "All %s posts"
+msgstr "Semua %s tulisan"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigasi pos"
+
+#: inc/template-tags.php:86 inc/template-tags.php:157
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Diposkan pada"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Pos-pos Lebih Baru"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Pos-pos Lebih Lama"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigasi pos"
+
+#: inc/extras.php:95
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: header.php:33
+msgid "Widgets"
+msgstr "Widget"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Merriweather, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:151
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "nyala"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:145
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "nyala"
+
+#: functions.php:55 sidebar.php:12
+msgid "Social Menu"
+msgstr "Menu sosial"
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr "Bilah Sisi"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: footer.php:34
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: footer.php:32
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga ditenagai oleh %s"
+
+#: footer.php:32
+msgid "http://wordpress.org/"
+msgstr "http://id.wordpress.org/"
+
+#: footer.php:13 header.php:31
+msgid "Menu"
+msgstr "Menu"
+
+#: footer.php:15
+msgid "Primary Navigation"
+msgstr "Navigasi Utama"
+
+#: content-single.php:32
+msgid "Tagged %1$s"
+msgstr "Ditandai %1$s"
+
+#: content.php:9
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Baca lebih lanjut <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:30 inc/template-tags.php:93 inc/template-tags.php:135
+msgid ", "
+msgstr ", "
+
+#: content-page.php:24 content-single.php:35 inc/template-tags.php:168
+msgid "Edit"
+msgstr "Sunting"
+
+#: content-page.php:18 content-single.php:20 content.php:39
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Tidak Menemukan Apa-apa"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Selanjutnya &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Sebelumnya"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Coba cari di arsip bulanan. %1$s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu pemikiran pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pemikiran pada &ldquo;%2$s&rdquo;"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Kategori Paling Banyak Digunakan"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nampaknya tidak ada yang ditemukan di lokasi. Mungkin coba salah satu tautan di bawah atau telusuri?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Halaman itu tidak dapat ditemukan."

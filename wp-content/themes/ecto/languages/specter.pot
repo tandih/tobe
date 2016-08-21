@@ -1,0 +1,359 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecto 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-02-10 00:56:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:15 dist/specter/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19 dist/specter/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:27 dist/specter/404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44 dist/specter/404.php:44
+#. translators: %1$s: smiley
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35 comments.php:52 dist/specter/comments.php:35
+#: dist/specter/comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53 dist/specter/comments.php:36
+#: dist/specter/comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54 dist/specter/comments.php:37
+#: dist/specter/comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64 dist/specter/comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13 dist/specter/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19 dist/specter/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23 dist/specter/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28 dist/specter/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:20 content.php:40
+#: dist/specter/content-page.php:18 dist/specter/content-single.php:20
+#: dist/specter/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24 content-single.php:37 dist/specter/content-page.php:24
+#: dist/specter/content-single.php:37 dist/specter/inc/template-tags.php:160
+#: inc/template-tags.php:160
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:31 dist/specter/content-single.php:31
+#: dist/specter/inc/template-tags.php:93 dist/specter/inc/template-tags.php:131
+#: inc/template-tags.php:93 inc/template-tags.php:131
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: content-single.php:33 dist/specter/content-single.php:33
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content-single.php:55 dist/specter/content-single.php:55
+msgid "Read <a href=\"%1$s\" class=\"url fn n\">more posts</a> by this author"
+msgstr ""
+
+#: content.php:9 dist/specter/content.php:9
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:32 dist/specter/content.php:32
+#. translators: %s: Name of current post
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: dist/specter/footer.php:10 footer.php:10
+msgid "Back to top"
+msgstr ""
+
+#: dist/specter/footer.php:20 footer.php:20
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: dist/specter/footer.php:20 footer.php:20
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: dist/specter/footer.php:22 footer.php:22
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: dist/specter/functions.php:54 functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: dist/specter/functions.php:55 dist/specter/header.php:45 functions.php:55
+#: header.php:45
+msgid "Social Menu"
+msgstr ""
+
+#: dist/specter/functions.php:90 functions.php:90
+msgid "Sidebar"
+msgstr ""
+
+#: dist/specter/header.php:23 header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: dist/specter/header.php:34 header.php:34
+msgid "Home"
+msgstr ""
+
+#: dist/specter/header.php:40 dist/specter/header.php:78 header.php:40
+#: header.php:78
+msgid "Menu"
+msgstr ""
+
+#: dist/specter/header.php:70 header.php:70
+msgid "Scroll Down"
+msgstr ""
+
+#: dist/specter/header.php:80 header.php:80
+msgid "Primary Navigation"
+msgstr ""
+
+#: dist/specter/inc/extras.php:85 inc/extras.php:85
+msgid "Page %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:23 inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:27 inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:31 inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:56 inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:95 dist/specter/inc/template-tags.php:133
+#: inc/template-tags.php:95 inc/template-tags.php:133
+msgid "%1$s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:126 inc/template-tags.php:126
+msgid "All %s posts"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:156 inc/template-tags.php:156
+msgid "Leave a comment"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:156 inc/template-tags.php:156
+msgid "1 Comment"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:156 inc/template-tags.php:156
+msgid "% Comments"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:176 inc/template-tags.php:176
+msgid "Category: %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:178 inc/template-tags.php:178
+msgid "Tag: %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:180 inc/template-tags.php:180
+msgid "Author: %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:182 inc/template-tags.php:182
+msgid "Year: %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:184 inc/template-tags.php:184
+msgid "Month: %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:186 inc/template-tags.php:186
+msgid "Day: %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:208 inc/template-tags.php:208
+msgid "Archives: %s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:212 inc/template-tags.php:212
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:214 inc/template-tags.php:214
+msgid "Archives"
+msgstr ""
+
+#: dist/specter/search.php:16 search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Specter"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/specter/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Inspired by the Ghost blogging platform, Ecto is a WordPress port of the "
+"default Casper theme. The goal of this project is to emulate the gorgeous "
+"theme while taking advantage of features exclusive to the WordPress "
+"framework. This theme has been adapted for WordPress.com from the theme "
+"built by Lacy Morrow: [https://github.com/lacymorrow/casper-wp]"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#: comments.php:28 dist/specter/comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/specter/functions.php:133 functions.php:133
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: dist/specter/functions.php:139 functions.php:139
+#. Translators: If there are characters in your language that are not
+#. * supported by Merriweather, translate this to 'off'. Do not translate
+#. * into your own language.
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:86 dist/specter/inc/template-tags.php:150
+#: inc/template-tags.php:86 inc/template-tags.php:150
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:117 inc/template-tags.php:117
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:182 inc/template-tags.php:182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:184 inc/template-tags.php:184
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:186 inc/template-tags.php:186
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:189 inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:191 inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:193 inc/template-tags.php:193
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:195 inc/template-tags.php:195
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:197 inc/template-tags.php:197
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:199 inc/template-tags.php:199
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:201 inc/template-tags.php:201
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:203 inc/template-tags.php:203
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: dist/specter/inc/template-tags.php:205 inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""

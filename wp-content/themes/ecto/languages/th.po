@@ -1,0 +1,275 @@
+# Translation of Ecto in Thai
+# This file is distributed under the same license as the Ecto package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-22 06:12:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Ecto\n"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "ผลลัพท์การค้นหาสำหรับ: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:221
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:223
+msgid "Archives"
+msgstr "คลังเก็บ"
+
+#: inc/template-tags.php:217
+msgid "Archives: %s"
+msgstr "คลังเก็บ: %s"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "ไฟล์เสียง"
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "พูดคุย"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "ลิงก์"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "สถานะ"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "คำคม"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "รูปภาพ"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "ไฟล์วีดีโอ"
+
+#: inc/template-tags.php:200
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "คลังรูป"
+
+#: inc/template-tags.php:195
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:198
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "เรื่องสั้น"
+
+#: inc/template-tags.php:195
+msgid "Day: %s"
+msgstr "วัน: %s"
+
+#: inc/template-tags.php:193
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:193
+msgid "Month: %s"
+msgstr "เดือน: %s"
+
+#: inc/template-tags.php:191
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:191
+msgid "Year: %s"
+msgstr "ปี: %s"
+
+#: inc/template-tags.php:189
+msgid "Author: %s"
+msgstr "ผู้เขียน: %s"
+
+#: inc/template-tags.php:185
+msgid "Category: %s"
+msgstr "หมวดหมู่: %s"
+
+#: inc/template-tags.php:187
+msgid "Tag: %s"
+msgstr "ป้ายกำกับ: %s"
+
+#: inc/template-tags.php:164
+msgid "% Comments"
+msgstr "% ความเห็น"
+
+#: inc/template-tags.php:164
+msgid "1 Comment"
+msgstr "1 ความเห็น"
+
+#: inc/template-tags.php:164
+msgid "Leave a comment"
+msgstr "ใส่ความเห็น"
+
+#: inc/template-tags.php:96 inc/template-tags.php:138
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: inc/template-tags.php:120
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "ผู้เขียน"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "เมนูนำทาง เรื่อง"
+
+#: inc/template-tags.php:86 inc/template-tags.php:157
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "เขียนเมื่อ"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "เรื่องที่ใหม่กว่า"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "เรื่องที่เก่ากว่า"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "เมนูนำทาง เรื่อง"
+
+#: inc/extras.php:95
+msgid "Page %s"
+msgstr "หน้า %s"
+
+#: header.php:33
+msgid "Widgets"
+msgstr "วิดเจ็ต"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "ข้ามไปยังเนื้อหา"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:145
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "เปิด"
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr "ด้านข้าง"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "เมนูหลัก"
+
+#: footer.php:32
+msgid "Proudly powered by %s"
+msgstr "ภูมิใจนำเสนอโดย %s"
+
+#: footer.php:32
+msgid "http://wordpress.org/"
+msgstr "http://th.wordpress.org/"
+
+#: footer.php:13 header.php:31
+msgid "Menu"
+msgstr "เมนู"
+
+#: footer.php:15
+msgid "Primary Navigation"
+msgstr "เมนูนำทางหลัก"
+
+#: content-single.php:32
+msgid "Tagged %1$s"
+msgstr "ติดป้ายกำกับ %1$s"
+
+#: content.php:9
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "อ่านเพิ่มเติม <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:30 inc/template-tags.php:93 inc/template-tags.php:135
+msgid ", "
+msgstr ", "
+
+#: content-page.php:24 content-single.php:35 inc/template-tags.php:168
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: content-page.php:18 content-single.php:20 content.php:39
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ดูเหมือนว่าเราไม่มีสิ่งที่คุณกำลังหาอยู่  บางทีคำสั่งค้นหาอาจช่วยคุณได้"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ขอโทษครับ  แต่ไม่มีสิ่งใดตรงกับเงื่อนไขการค้นหาของคุณ  โปรดลองใหม่ด้วยคำที่ต่างออกไป"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "พร้อมที่จะเผยแพร่เรื่องแรกของคุณหรือไม่? <a href=\"%1$s\">เริ่มใช้งานที่นี่</a>"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "ไม่พบสิ่งใด"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "การแสดงความเห็นถูกปิด"
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "ความเห็นที่ใหม่กว่า &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; ความเห็นที่เก่ากว่า"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "เมนูนำทางความเห็น"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "พยายามมองหาในคลังเก็บรายเดือน %1$s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s คิดบน &ldquo;%2$s&rdquo;"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "หมวดหมู่ที่ใช้มากที่สุด"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ไม่พบสิ่งใดบนที่นั้น บางทีลองหนึ่งในลิงก์ด้านล่างหรือใช้การค้นหา?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "โอ๊ะ ไม่พบหน้านั้น"

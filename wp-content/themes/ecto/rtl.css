@@ -1,0 +1,167 @@
+/**
+ * Individual icons
+ */
+/*--------------------------------------------------------------
+1.0 Reset
+--------------------------------------------------------------*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+/*--------------------------------------------------------------
+2.0 Typography
+--------------------------------------------------------------*/
+blockquote {
+	border-width: 0 .4em 0 0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0 1.75em 0 0;
+	font-style: italic;
+}
+
+blockquote blockquote {
+	margin-right: 0;
+}
+
+/*--------------------------------------------------------------
+3.0 Elements
+--------------------------------------------------------------*/
+ul, ol {
+	margin: 0 1.5em 1.5em 0;
+}
+
+li > ul,
+li > ol {
+	margin: 0 1.5em 0 0;
+}
+
+/*--------------------------------------------------------------
+4.0 Navigation
+--------------------------------------------------------------*/
+/* Primary navigation */
+.main-navigation .sub-menu,
+.main-navigation .children {
+	text-transform: none;
+}
+.main-navigation .sub-menu a,
+.main-navigation .children a {
+	padding-left: .5em;
+	padding-right: 2.5em;
+}
+
+/* Paging navigation */
+.nav-previous a:before {
+	content: "\f429";
+}
+.nav-previous a:before {
+	float: right;
+}
+
+.nav-next a:before {
+	content: "\f430";
+}
+.nav-next a:before {
+	float: none;
+}
+
+.comment-navigation .nav-previous,
+.posts-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: right;
+	text-align: right;
+}
+
+.comment-navigation .nav-next,
+.posts-navigation .nav-next,
+.post-navigation .nav-next {
+	float: left;
+	text-align: left;
+}
+
+/*--------------------------------------------------------------
+5.0 Content
+--------------------------------------------------------------*/
+.navbar-action {
+	float: left;
+}
+
+.js .slide-menu-toggle {
+	margin-right: 1em;
+	float: left;
+}
+
+.social-links {
+	float: left;
+	clear: left;
+}
+
+.slide-menu-title {
+	padding-right: 14px;
+}
+
+.site-footer .blog-info,
+#infinite-footer .blog-info {
+	float: right;
+}
+.site-footer .blog-credits,
+#infinite-footer .blog-credits {
+	float: left;
+	text-align: left;
+}
+
+.comment-list .children {
+	padding-right: 1.5em;
+	margin-right: 0;
+	border-width: 0 4px 0 0;
+}
+
+/*--------------------------------------------------------------
+6.0 Media Queries
+--------------------------------------------------------------*/
+/* 496px and up */
+@media (min-width: 31em) {
+	.social-links {
+		float: right;
+		clear: inherit;
+	}
+
+	.js .slide-menu {
+		left: -33%;
+		border-width: 0 1px 0 0;
+	}
+
+	.js .sidebar-open .slide-menu {
+		left: 0;
+		right: auto;
+	}
+
+	.js .sidebar-open #infinite-footer .container {
+		margin-right: 0;
+	}
+
+	.comment-author {
+		float: right;
+	}
+
+	.comment-metadata {
+		float: left;
+	}
+}
+
+/* 896px and up */
+@media (min-width: 56em) {
+	.js .slide-menu {
+		left: -25%;
+	}
+
+	.js .sidebar-open .slide-menu {
+		left: 0;
+	}
+}

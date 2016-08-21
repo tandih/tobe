@@ -1,0 +1,301 @@
+# Translation of Ecto in Esperanto
+# This file is distributed under the same license as the Ecto package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-04-23 14:59:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Ecto\n"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Serĉrezultoj por: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:221
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:223
+msgid "Archives"
+msgstr "Arkivoj"
+
+#: inc/template-tags.php:217
+msgid "Archives: %s"
+msgstr "Arkivoj: %s"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Aŭdaĵoj"
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Babiloj"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ligiloj"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statoj"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citaĵoj"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bildoj"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoj"
+
+#: inc/template-tags.php:200
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerioj"
+
+#: inc/template-tags.php:195
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:198
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Mencioj"
+
+#: inc/template-tags.php:195
+msgid "Day: %s"
+msgstr "Tago: %s"
+
+#: inc/template-tags.php:193
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:193
+msgid "Month: %s"
+msgstr "Monato: %s"
+
+#: inc/template-tags.php:191
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "J"
+
+#: inc/template-tags.php:191
+msgid "Year: %s"
+msgstr "Jaro: %s"
+
+#: inc/template-tags.php:189
+msgid "Author: %s"
+msgstr "Aŭtoro: %s"
+
+#: inc/template-tags.php:185
+msgid "Category: %s"
+msgstr "Kategorio: %s"
+
+#: inc/template-tags.php:187
+msgid "Tag: %s"
+msgstr "Etikedo: %s"
+
+#: inc/template-tags.php:164
+msgid "% Comments"
+msgstr "% Komentoj"
+
+#: inc/template-tags.php:164
+msgid "1 Comment"
+msgstr "1 komento"
+
+#: inc/template-tags.php:164
+msgid "Leave a comment"
+msgstr "Komenti"
+
+#: inc/template-tags.php:96 inc/template-tags.php:138
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorioj"
+
+#: inc/template-tags.php:120
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Aŭtoro"
+
+#: inc/template-tags.php:130
+msgid "All %s posts"
+msgstr "Ĉiuj %s-afiŝoj"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: inc/template-tags.php:86 inc/template-tags.php:157
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publikigita je"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Pli novaj afiŝoj"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Pli malnovaj afiŝoj"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: inc/extras.php:95
+msgid "Page %s"
+msgstr "Paĝo %s"
+
+#: header.php:33
+msgid "Widgets"
+msgstr "Kromprogrametoj"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Merriweather, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:151
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Iri rekte al la enhavo"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:145
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:55 sidebar.php:12
+msgid "Social Menu"
+msgstr "Socia menuo"
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr "Flankpanelo"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Ĉefa menuo"
+
+#: footer.php:34
+msgid "Theme: %1$s by %2$s."
+msgstr "Etoso: %1$s de %2$s. "
+
+#: footer.php:32
+msgid "Proudly powered by %s"
+msgstr "Fiere kreata de %s"
+
+#: footer.php:32
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:13 header.php:31
+msgid "Menu"
+msgstr "Menuo"
+
+#: footer.php:15
+msgid "Primary Navigation"
+msgstr "Ĉefa navigado"
+
+#. translators: %s: Name of current post
+#: content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Legi plu %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:32
+msgid "Tagged %1$s"
+msgstr "Etikedita per %1$s"
+
+#: content.php:9
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Legi plu <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:30 inc/template-tags.php:93 inc/template-tags.php:135
+msgid ", "
+msgstr ", "
+
+#: content-page.php:24 content-single.php:35 inc/template-tags.php:168
+msgid "Edit"
+msgstr "Redakti"
+
+#: content-page.php:18 content-single.php:20 content.php:39
+msgid "Pages:"
+msgstr "Paĝoj:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Ŝajne ni ne havas kion vi serĉas. Eble uzu la serĉilon."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bedaŭrinde, nenio kongruis kun viaj serĉaj kriterioj. Bonvolu provi denove, uzante malsamajn vortojn."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ĉu vi pretas publigiki vian unuan afiŝon? <a href=\"%1$s\">Startu ĉi tie</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nenio trovita"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Komentado estas fermita."
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Pli novaj komentoj &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Pli malnovaj komentoj"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Navigado tra komentoj"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provu rigardi en la monataj arkivoj: %1$s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Penso pri &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensoj pri &ldquo;%2$s&rdquo;"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Plej uzataj kategorioj"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Aspektas kvazaŭ nenio estis trovita ĉe ĉi tiu loko. Ĉu eble provi unu de la subaj ligiloj aŭ serĉon?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ne eblas trovi tiun paĝon."

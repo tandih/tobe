@@ -1,0 +1,79 @@
+/* WordPress.com Widget Styles */
+/* Author Grid */
+.widget_author_grid ul {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.widget_author_grid a {
+	display: inline-block;
+}
+
+/* Authors */
+.widget_authors ul,
+.widget_author_grid ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.widget_authors img {
+	display: inline-block;
+	padding-right: 10px;
+}
+.widget_authors a strong {
+	display: block;
+}
+.widget_authors li {
+	display: block;
+	margin-bottom: 10px;
+}
+.widget_authors li:before,
+.widget_authors li:after {
+	content: "";
+	display: table;
+}
+.widget_authors li:after {
+	clear: both;
+}
+
+/* Flickr */
+#flickr_badge_wrapper {
+	background: transparent !important;
+	border: 0 !important;
+}
+#flickr_badge_wrapper a {
+	display: inline-block !important;
+}
+#flickr_badge_uber_wrapper {
+	margin: 0 auto !important;
+}
+
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {
+	color: inherit !important;
+}
+
+/* Goodreads */
+.widget_goodreads div {
+	padding: 2px 0;
+}
+
+/* Social */
+.widget_wpcom_social_media_icons_widget ul {
+	padding-left: 0;
+}
+
+/* Ratings */
+.pd-rating {
+	line-height: 1;
+	margin-bottom: 1em;
+}
+
+/* Stats smiley :) */
+#wpstats {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+}

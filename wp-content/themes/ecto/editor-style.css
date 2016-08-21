@@ -1,0 +1,399 @@
+/**
+ * Individual icons
+ */
+html .mceContentBody {
+  max-width: 660px;
+}
+
+body.mceContentBody {
+  color: #3a4145;
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  line-height: 1.15;
+  -webkit-font-feature-settings: "dlig", "liga", "lnum", "kern";
+          font-feature-settings: "dlig", "liga", "lnum", "kern";
+  color: #2e2e2e;
+  margin: 0 0 .3em;
+  clear: both;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 50px;
+  letter-spacing: -2px;
+}
+
+h2 {
+  font-size: 36px;
+  letter-spacing: -1px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 20px;
+}
+
+p {
+  margin-bottom: 1.75em;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+dfn, cite, em, i {
+  font-style: italic;
+}
+
+blockquote {
+  border-left: .4em solid #4a4a4a;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 1.75em 0 1.75em -2.2em;
+  padding: 0 0 0 1.75em;
+  font-style: italic;
+}
+blockquote blockquote {
+  margin-left: 0;
+}
+blockquote em,
+blockquote i {
+  font-style: normal;
+}
+blockquote p,
+blockquote ul,
+blockquote ol {
+  margin: .8em 0;
+  font-style: italic;
+}
+blockquote small {
+  display: inline-block;
+  margin: .8em 0 .8em 1.5em;
+  font-size: 160px;
+  color: #ccc;
+}
+blockquote small:before {
+  content: "\2014 \00A0";
+}
+blockquote cite {
+  font-weight: 700;
+}
+blockquote cite a {
+  font-weight: 400;
+}
+
+address {
+  margin: 0 0 1.5em;
+}
+
+pre {
+  margin: 0 0 1.75em;
+  max-width: 100%;
+  padding: .6em;
+  background: #f7fafb;
+  border: 1px solid #e3edf3;
+  border-radius: 3px;
+  font-family: "Courier 10 Pitch", Courier, monospace;
+  font-size: 15px;
+  line-height: 1.5;
+  white-space: pre;
+  overflow: auto;
+}
+pre code {
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+
+code, kbd, tt, var {
+  font-size: 15px;
+  font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  white-space: pre-wrap;
+}
+
+code {
+  padding: 1px 3px;
+  background: #f7fafb;
+  border: 1px solid #e3edf3;
+  border-radius: 2px;
+}
+
+kbd {
+  display: inline-block;
+  margin-bottom: 0.4em;
+  padding: 1px 8px;
+  border: #CCC 1px solid;
+  color: #666;
+  text-shadow: #FFF 0 1px 0;
+  font-weight: 700;
+  background: #F4F4F4;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset;
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset;
+}
+
+abbr, acronym {
+  border-bottom: 1px dotted #ebf2f6;
+  cursor: help;
+}
+
+mark, ins {
+  background: #ffc336;
+  text-decoration: none;
+}
+
+sup,
+sub {
+  font-size: 75%;
+  height: 0;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  bottom: 1ex;
+}
+
+sub {
+  top: .5ex;
+}
+
+small {
+  font-size: 75%;
+}
+
+big {
+  font-size: 125%;
+}
+
+a {
+  color: #4a4a4a;
+  -webkit-transition: all 0.2s ease 0s;
+       -o-transition: all 0.2s ease 0s;
+          transition: all 0.2s ease 0s;
+}
+a:visited {
+  color: #4a4a4a;
+}
+a:hover, a:focus, a:active {
+  color: #111;
+}
+
+hr {
+  background-color: #ebf2f6;
+  border: 0;
+  height: 1px;
+  margin-bottom: 1.5em;
+}
+
+ul, ol {
+  margin: 0 0 1.75em;
+  padding: 0 0 0 1.5em;
+}
+
+ul {
+  list-style: disc;
+}
+
+ol {
+  list-style: decimal;
+}
+
+li > ul,
+li > ol {
+  margin-bottom: 0;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin: 0 1.5em 1.5em;
+}
+
+img {
+  height: auto;
+  /* Make sure images are scaled correctly. */
+  max-width: 100%;
+  /* Adhere to container width. */
+}
+
+figure {
+  margin: 0;
+}
+
+table {
+  margin: 1.75em 0;
+  line-height: 1.15;
+  width: 100%;
+  max-width: 100%;
+  background: transparent;
+  text-align: left;
+}
+table caption + thead tr:first-child th,
+table caption + thead tr:first-child td,
+table colgroup + thead tr:first-child th,
+table colgroup + thead tr:first-child td,
+table thead:first-child tr:first-child th,
+table thead:first-child tr:first-child td {
+  border-top: 0;
+}
+table tbody + tbody {
+  border-top: #EFEFEF 2px solid;
+}
+table table table {
+  background: #fff;
+}
+table tbody > tr:nth-child(odd) > td,
+table tbody > tr:nth-child(odd) > th {
+  background-color: #F6F6F6;
+}
+table.plain tbody > tr:nth-child(odd) > td,
+table.plain tbody > tr:nth-child(odd) > th {
+  background: transparent;
+}
+
+th,
+td {
+  padding: .45em;
+  vertical-align: top;
+  border-top: #EFEFEF 1px solid;
+}
+
+th {
+  color: #000;
+}
+
+.alignleft {
+  display: inline;
+  float: left;
+  margin-right: 1.5em;
+}
+
+.alignright {
+  display: inline;
+  float: right;
+  margin-left: 1.5em;
+}
+
+.aligncenter {
+  display: block;
+  margin: 0 auto;
+}
+
+.page-content img.wp-smiley,
+.entry-content img.wp-smiley,
+.comment-content img.wp-smiley {
+  border: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+/* Make sure embeds and iframes fit their containers */
+embed,
+iframe,
+object {
+  max-width: 100%;
+}
+
+.mejs-container,
+.wp-playlist.wp-audio-playlist,
+.video-player,
+embed,
+iframe,
+object {
+  margin-bottom: 1.75em;
+}
+
+/*--------------------------------------------------------------
+12.1 Captions
+--------------------------------------------------------------*/
+.wp-caption {
+  margin-bottom: 1.5em;
+  max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+  display: block;
+  margin: 0 auto;
+}
+
+.wp-caption-text {
+  margin: 0.8075em 0;
+  font-size: 14px;
+  color: #9eabb3;
+  font-family: "Open Sans", sans-serif;
+}
+
+/*--------------------------------------------------------------
+12.2 Galleries
+--------------------------------------------------------------*/
+.gallery {
+  margin-bottom: 1.5em;
+}
+
+.gallery-item {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+  max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+  max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+  max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+  max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+  max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+  max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+  max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+  max-width: 11.11%;
+}
+
+.gallery-caption {
+  display: block;
+  line-height: 1.5;
+}

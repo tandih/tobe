@@ -1,0 +1,317 @@
+# Translation of Ecto in Persian
+# This file is distributed under the same license as the Ecto package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-04-24 05:19:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Ecto\n"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/ecto/style.css
+msgid "Meet Ecto, a theme with a light color scheme, bold typography, and full-width images that draw readers straight to your content. Use it for blogs of all kinds."
+msgstr "Meet Ecto پوسته‌ای با رنگ‌بندی روشن، تایپوگرافی چشم‌گیر و تصاویر تمام‌پهنا است که خوانندگان را به سمت مطالبتان جذب می‌کند. برای هر نوع وب‌نوشتی قابل استفاده است."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جست‌وجو برای: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:221
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:223
+msgid "Archives"
+msgstr "بایگانی"
+
+#: inc/template-tags.php:217
+msgid "Archives: %s"
+msgstr "بایگانی‌ها: %s"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "صوت"
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "گپ‌ها"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "پیوندها"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "گفتاوردها"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصویرها"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "فیلم‌ها"
+
+#: inc/template-tags.php:200
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گالری‌‌ها"
+
+#: inc/template-tags.php:195
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:198
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "حاشیه‌ها"
+
+#: inc/template-tags.php:195
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: inc/template-tags.php:193
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:193
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: inc/template-tags.php:191
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:191
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/template-tags.php:189
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: inc/template-tags.php:185
+msgid "Category: %s"
+msgstr "دسته: %s"
+
+#: inc/template-tags.php:187
+msgid "Tag: %s"
+msgstr "برچسب‌ها: %s"
+
+#: inc/template-tags.php:164
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:164
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: inc/template-tags.php:164
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: inc/template-tags.php:96 inc/template-tags.php:138
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "دسته‌ها"
+
+#: inc/template-tags.php:120
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/template-tags.php:130
+msgid "All %s posts"
+msgstr "همهٔ %s نوشته"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/template-tags.php:86 inc/template-tags.php:157
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "ارسال شده در"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "نوشته‌های تازه‌تر"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "نوشته‌های پیشین"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "ناوبری نوشته‌ها"
+
+#: header.php:35
+msgid "Menu &amp; Widgets"
+msgstr "گزینگان و ابزارک‌ها"
+
+#: header.php:67
+msgid "Scroll Down"
+msgstr "نوردش به پایین"
+
+#: inc/extras.php:95
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#: header.php:33
+msgid "Widgets"
+msgstr "ابزارک‌ها"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Merriweather, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:151
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:145
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "روی"
+
+#: functions.php:55 sidebar.php:12
+msgid "Social Menu"
+msgstr "گزینگان اجتماعی"
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:34
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:32
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:32
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:13 header.php:31
+msgid "Menu"
+msgstr "گزینگان"
+
+#: footer.php:15
+msgid "Primary Navigation"
+msgstr "ناوبری اصلی"
+
+#. translators: %s: Name of current post
+#: content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن %s ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:32
+msgid "Tagged %1$s"
+msgstr "برچسب‌خورده با %1$s"
+
+#: content-single.php:53
+msgid "Read <a href=\"%1$s\" class=\"url fn n\">more posts</a> by this author"
+msgstr "خواندن <a href=\"%1$s\" class=\"url fn n\">نوشته‌هایی دیگر</a> از همین نویسنده"
+
+#: content.php:9
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:30 inc/template-tags.php:93 inc/template-tags.php:135
+msgid ", "
+msgstr "، "
+
+#: content-page.php:24 content-single.php:35 inc/template-tags.php:168
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-page.php:18 content-single.php:20 content.php:39
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "بد نیست نگاهی به بایگانی ماهانه بیندازید. %1$s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نظر برای &ldquo;%2$s&rdquo;"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "پراستفاده‌ترین دسته‌ها"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان نیست. شاید بخواهید یکی از پیوندهای زیر یا جست‌وجو را آزمایش کنید."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."
